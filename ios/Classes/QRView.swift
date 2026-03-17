@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import MTBBarcodeScanner
 
 public class QRView:NSObject,FlutterPlatformView {
     @IBOutlet var previewView: UIView!
