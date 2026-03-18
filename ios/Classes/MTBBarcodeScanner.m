@@ -1,11 +1,3 @@
-//
-//  MTBBarcodeScanner.m
-//  MTBBarcodeScannerExample
-//
-//  Created by Mike Buss on 2/8/14.
-//
-//
-
 #import <QuartzCore/QuartzCore.h>
 #import "MTBBarcodeScanner.h"
 

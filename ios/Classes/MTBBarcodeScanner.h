@@ -1,11 +1,3 @@
-//
-//  MTBBarcodeScanner.h
-//  MTBBarcodeScannerExample
-//
-//  Created by Mike Buss on 2/8/14.
-//
-//
-
 #import <AVFoundation/AVFoundation.h>
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
