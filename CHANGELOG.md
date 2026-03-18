@@ -1,3 +1,8 @@
+## 1.1.0
+
+* Android kotlin_version and minSdkVersion upgrade.
+* [Fix] iOS26+, App hanging after qr_code_scnaner unmounted.
+
 ## 1.0.0
 Breaking changes:
 Minimum Flutter version is now Flutter 3.0.0 (Dart 2.17.0).
